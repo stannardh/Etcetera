@@ -13,6 +13,14 @@ h1 {
   padding: 20px;
 }
 
+h2 {
+  font-family: Barrington;
+  font-weight: 500;
+  font-size: 40px;
+  color: #eaeff3;
+  margin-top: 40px;
+}
+
 body {
   background-color: rgb(43, 41, 41);
 }
@@ -76,4 +84,16 @@ body {
   color: rgb(70, 33, 70);
   text-decoration: none;
   font-weight: 700;
+}
+
+address {
+  color: #eaeff3;
+  font-family: sans-serif;
+  font-size: 20px;
+  display: block;
+}
+
+.row {
+  padding: 20px;
+  margin-top: 20px;
 }

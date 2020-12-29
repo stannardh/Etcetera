@@ -77,3 +77,12 @@ body {
   text-decoration: none;
   font-weight: 700;
 }
+
+img {
+  width: 800px;
+  height: 600px;
+  object-fit: cover;
+  margin-left: 200px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
