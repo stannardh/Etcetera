@@ -1,0 +1,79 @@
+header {
+  background-color: #eaeff3;
+  padding: 50px;
+  padding-bottom: 70px;
+}
+
+h1 {
+  color: rgb(100, 99, 99);
+  font-family: Barrington;
+  text-align: center;
+  font-weight: 600;
+  font-size: 40px;
+  padding: 20px;
+}
+
+body {
+  background-color: rgb(43, 41, 41);
+}
+
+#home {
+  list-style-type: none;
+  float: right;
+  padding: 10px;
+  padding-left: 20px;
+}
+
+#home-link {
+  font-family: Barrington;
+  font-size: 20px;
+  color: rgb(100, 99, 99);
+}
+
+#home-link:hover {
+  color: rgb(70, 33, 70);
+  text-decoration: none;
+  font-weight: 700;
+}
+
+#food-menu {
+  list-style-type: none;
+  font-family: Barrington;
+  font-size: 20px;
+  float: right;
+  padding: 10px;
+  padding-left: 20px;
+}
+
+#menu-link {
+  font-family: Barrington;
+  font-size: 20px;
+  color: rgb(100, 99, 99);
+}
+
+#menu-link:hover {
+  color: rgb(70, 33, 70);
+  text-decoration: none;
+  font-weight: 700;
+}
+
+#contact {
+  list-style-type: none;
+  font-family: Barrington;
+  font-size: 20px;
+  float: right;
+  padding: 10px;
+  padding-left: 20px;
+}
+
+#contact-link {
+  font-family: Barrington;
+  font-size: 20px;
+  color: rgb(100, 99, 99);
+}
+
+#contact-link:hover {
+  color: rgb(70, 33, 70);
+  text-decoration: none;
+  font-weight: 700;
+}
