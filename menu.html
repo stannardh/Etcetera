@@ -10,25 +10,50 @@
 </head>
 <body>
     <header>
+      <div class="row">
         <h1>Etcetera</h1>
-        <div id="header-links">
-            <ul id="headerLinks">
-                <div id="gallery">
-                    <li><a href="./gallery.html" id="gallery-link">Gallery</a></li>
-                </div>
-                <div id="contact">
-                    <li><a href="./contact.html" id="contact-link">Contact Us</a></li>
-                </div>
-                <div id="food-menu">
-                    <li><a href="./menu.html" id="menu-link">Our Menu</a></li>
-                </div>
-                <div id="home">
-                    <li><a href="./index.html" id="home-link">Home</a></li>
-                </div>
-            </ul>
+      </div>
+      <div class="row">
+        <div class="col-4">
+          <div class="dropdown" id="menu-dropdown">
+            <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown"
+              aria-haspopup="true" aria-expanded="false">
+              Browse our menus
+            </button>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton" id="menus">
+              <a class="dropdown-item" href="#" id="breakfast">Breakfast</a>
+              <a class="dropdown-item" href="#" id="tapas">Tapas</a>
+              <a class="dropdown-item" href="#" id="salads">Salads</a>
+              <a class="dropdown-item" href="#" id="drinks-desserts">Drinks and Desserts</a>
+            </div>
+          </div>
         </div>
+        <div class="col-8">
+          <div id="header-links">
+          
+            <ul id="headerLinks">
+          
+              <div id="gallery">
+                <li><a href="./gallery.html" id="gallery-link">Gallery</a></li>
+              </div>
+              <div id="contact">
+                <li><a href="./contact.html" id="contact-link">Contact Us</a></li>
+              </div>
+              <div id="food-menu">
+                <li><a href="./menu.html" id="menu-link">Our Menu</a></li>
+              </div>
+              <div id="home">
+                <li><a href="./index.html" id="home-link">Home</a></li>
+              </div>
+            </ul>
+          </div>
+
+        </div>
+      </div>   
+          
     </header>
     <div class="container">
+        
      <img src="https://images.pexels.com/photos/709840/pexels-photo-709840.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="food menu">   
     </div>
     </div>

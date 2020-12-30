@@ -1,7 +1,7 @@
 header {
   background-color: #eaeff3;
   padding: 50px;
-  padding-bottom: 70px;
+  padding-bottom: 10px;
 }
 
 h1 {
@@ -11,6 +11,7 @@ h1 {
   font-weight: 600 !important;
   font-size: 40px;
   padding: 20px;
+  margin-left: 41%;
 }
 
 body {
@@ -116,4 +117,17 @@ footer {
 #footer-link {
   color: #eaeff3;
   font-family: sans-serif;
+}
+
+#menus {
+  font-family: sans-serif;
+  color: #eaeff3;
+}
+
+#dropdownMenuButton {
+  color: #eaeff3;
+  font-family: Barrington;
+  font-size: 25px;
+  padding: 20px;
+  background-color: rgb(100, 99, 99);
 }
