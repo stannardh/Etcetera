@@ -170,3 +170,17 @@ footer {
   color: #eaeff3;
   font-family: sans-serif;
 }
+
+#email-us {
+  color: #eaeff3;
+}
+
+#mailto-link {
+  color: #464a4b;
+  text-decoration: none;
+}
+
+#mailto-link:hover {
+  color: #eaeff3;
+  text-decoration: none;
+}
