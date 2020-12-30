@@ -88,17 +88,39 @@ body {
   font-weight: 700;
 }
 
+#gallery {
+  list-style-type: none;
+  font-family: Barrington;
+  font-size: 20px;
+  float: right;
+  padding: 10px;
+  padding-left: 20px;
+}
+
+#gallery-link {
+  font-family: Barrington;
+  font-size: 20px;
+  color: rgb(100, 99, 99);
+}
+
+#gallery-link:hover {
+  color: rgb(70, 33, 70);
+  text-decoration: none;
+  font-weight: 700;
+}
+
 #about {
   color: #eaeff3;
   font-family: sans-serif;
   float: right;
 }
 
-address {
+#address {
   color: #eaeff3;
-  font-family: sans-serif;
   font-size: 20px;
   display: block;
+  font-family: Barrington;
+  margin-left: 30px;
 }
 
 .row {
@@ -118,7 +140,9 @@ footer {
 }
 
 #restaurant {
-  margin-top: 40px;
+  margin-top: 230px;
+  margin-bottom: 50px;
+  border-radius: 5px;
 }
 
 #about {
@@ -129,4 +153,8 @@ footer {
 #about-us {
   text-align: justify;
   width: 400px;
+}
+
+#coffee {
+  border-radius: 5px;
 }

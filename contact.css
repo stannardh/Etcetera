@@ -3,7 +3,6 @@ header {
   padding: 50px;
   padding-bottom: 70px;
 }
-
 h1 {
   color: rgb(100, 99, 99);
   font-family: Barrington;
@@ -78,6 +77,26 @@ body {
   font-weight: 700;
 }
 
+#gallery {
+  list-style-type: none;
+  font-family: Barrington;
+  font-size: 20px;
+  float: right;
+  padding: 10px;
+  padding-left: 20px;
+}
+
+#gallery-link {
+  font-family: Barrington;
+  font-size: 20px;
+  color: rgb(100, 99, 99);
+}
+
+#gallery-link:hover {
+  color: rgb(70, 33, 70);
+  text-decoration: none;
+  font-weight: 700;
+}
 #name {
   border: rgb(70, 33, 70) solid 2px;
   border-radius: 8px;
