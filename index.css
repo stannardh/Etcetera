@@ -19,6 +19,8 @@ h2 {
   font-size: 40px;
   color: #eaeff3;
   margin-top: 40px;
+  padding: 10px;
+  margin-bottom: 20px;
 }
 
 body {
@@ -86,6 +88,12 @@ body {
   font-weight: 700;
 }
 
+#about {
+  color: #eaeff3;
+  font-family: sans-serif;
+  float: right;
+}
+
 address {
   color: #eaeff3;
   font-family: sans-serif;
@@ -96,4 +104,29 @@ address {
 .row {
   padding: 20px;
   margin-top: 20px;
+}
+
+footer {
+  color: #eaeff3;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#footer-link {
+  color: #eaeff3;
+  font-family: sans-serif;
+}
+
+#restaurant {
+  margin-top: 40px;
+}
+
+#about {
+  margin-top: 30px;
+  float: left;
+}
+
+#about-us {
+  text-align: justify;
+  width: 400px;
 }

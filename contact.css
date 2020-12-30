@@ -8,13 +8,13 @@ h1 {
   color: rgb(100, 99, 99);
   font-family: Barrington;
   text-align: center;
-  font-weight: 600;
+  font-weight: 600 !important;
   font-size: 40px;
   padding: 20px;
 }
 
 body {
-  background-color: rgb(43, 41, 41);
+  background-color: rgb(43, 41, 41) !important;
 }
 
 #home {
@@ -139,4 +139,15 @@ img {
   margin-top: 20px;
   float: right;
   border-radius: 5px;
+}
+
+footer {
+  color: #eaeff3;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#footer-link {
+  color: #eaeff3;
+  font-family: sans-serif;
 }
