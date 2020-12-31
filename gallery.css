@@ -103,7 +103,8 @@ body {
 }
 img {
   margin-top: 5%;
-  width: 90%;
+  max-width: 100%;
+  height: auto;
 }
 footer {
   color: #eaeff3;

@@ -117,16 +117,14 @@ body {
 
 #address {
   color: #eaeff3;
-  font-size: 20px;
+  font-size: larger;
   display: block;
   font-family: Barrington;
-  margin-left: 30px;
-  margin-bottom: 30px;
 }
 
 #about-row {
-  padding: 20px;
-  margin-top: 20px;
+  padding: 2%;
+  margin-top: 2%;
 }
 
 footer {
@@ -145,15 +143,15 @@ footer {
   font-family: sans-serif;
   text-emphasis: none;
   display: block;
-  line-height: 20px;
-  margin-left: 30px;
-  margin-top: 50px;
+  margin-top: 10%;
 }
 
 #restaurant {
   margin-top: 20%;
   margin-bottom: 10%;
   border-radius: 1%;
+  max-width: 100%;
+  height: auto;
 }
 
 #about-us {
@@ -163,4 +161,6 @@ footer {
 
 #coffee {
   border-radius: 1%;
+  max-width: 75%;
+  height: auto;
 }
