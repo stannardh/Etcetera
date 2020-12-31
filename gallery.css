@@ -20,7 +20,6 @@ h1 {
   text-align: center;
   font-weight: 600 !important;
   padding-top: 5%;
-  padding-bottom: 5%;
 }
 
 body {
@@ -102,11 +101,15 @@ body {
   text-decoration: none;
   font-weight: 700;
 }
-
+img {
+  margin-top: 5%;
+  width: 90%;
+}
 footer {
   color: #eaeff3;
   font-family: sans-serif;
   text-align: center;
+  margin-top: 1%;
 }
 
 #footer-link {
