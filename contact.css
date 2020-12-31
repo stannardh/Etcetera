@@ -214,3 +214,29 @@ footer {
   color: #eaeff3;
   text-decoration: none;
 }
+
+#contact-details {
+  color: #eaeff3;
+  font-size: larger;
+  display: block;
+  font-size: large;
+  margin-left: 25%;
+  margin-top: 10%;
+}
+#google-link {
+  color: #eaeff3;
+  font-family: sans-serif;
+  text-emphasis: none;
+  display: block;
+}
+
+#restaurant {
+  margin-top: 15%;
+  max-width: 100%;
+  height: auto;
+}
+
+#bruschetta2 {
+  max-width: 75%;
+  height: auto;
+}
