@@ -17,12 +17,11 @@
  * © 2020 MyFonts Inc
 */
 
-
 /* @import must be at top of file, otherwise CSS will not work */
 @import url("//hello.myfonts.net/count/3cea3b");
-  
-@font-face {
-  font-family: 'Barrington';
-  src: url('webFonts/Barrington/font.woff2') format('woff2'), url('webFonts/Barrington/font.woff') format('woff');
-}
 
+@font-face {
+  font-family: "Barrington";
+  src: url("webFonts/Barrington/font.woff2") format("woff2"),
+    url("webFonts/Barrington/font.woff") format("woff");
+}

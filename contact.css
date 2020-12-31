@@ -5,6 +5,9 @@
     url("webFonts/Barrington/font.woff") format("woff");
 }
 
+* {
+  box-sizing: border-box;
+}
 header {
   background-color: #eaeff3;
   padding: 50px;

@@ -5,6 +5,10 @@
     url("webFonts/Barrington/font.woff") format("woff");
 }
 
+* {
+  box-sizing: border-box;
+}
+
 header {
   background-color: #eaeff3;
   padding: 50px;
@@ -170,7 +174,7 @@ footer {
 
 #about-us {
   text-align: justify;
-  width: 400px;
+  width: 75%;
 }
 
 #coffee {
