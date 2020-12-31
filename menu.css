@@ -10,8 +10,6 @@
 }
 header {
   background-color: #eaeff3;
-  padding: 50px;
-  padding-bottom: 10px;
 }
 
 h1 {
@@ -19,8 +17,7 @@ h1 {
   font-family: Barrington;
   text-align: center;
   font-weight: 600 !important;
-  font-size: 40px;
-  padding: 20px;
+  padding-top: 5%;
 }
 
 body {
@@ -109,12 +106,10 @@ body {
 }
 
 img {
-  width: 800px;
-  height: 600px;
+  width: 100%;
   object-fit: cover;
-  margin-left: 200px;
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin-top: 5%;
+  margin-bottom: 5%;
 }
 
 footer {
