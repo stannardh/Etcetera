@@ -184,3 +184,13 @@ footer {
   color: #eaeff3;
   text-decoration: none;
 }
+
+#google-link {
+  color: #eaeff3;
+  font-family: sans-serif;
+  text-emphasis: none;
+  display: block;
+  line-height: 20px;
+  margin-left: 30px;
+  margin-top: 50px;
+}
