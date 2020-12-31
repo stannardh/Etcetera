@@ -1,10 +1,3 @@
-@import url("//hello.myfonts.net/count/3cea3b");
-@font-face {
-  font-family: "Barrington";
-  src: url("webFonts/Barrington/font.woff2") format("woff2"),
-    url("webFonts/Barrington/font.woff") format("woff");
-}
-
 * {
   box-sizing: border-box;
 }
@@ -58,7 +51,6 @@ header {
 
 h1 {
   color: rgb(100, 99, 99);
-  font-family: Barrington;
   text-align: center;
   font-weight: 600 !important;
   padding-top: 5%;
@@ -76,7 +68,6 @@ body {
 }
 
 #home-link {
-  font-family: Barrington;
   font-size: larger;
   color: rgb(100, 99, 99);
 }
@@ -95,7 +86,6 @@ body {
 }
 
 #menu-link {
-  font-family: Barrington;
   font-size: larger;
   color: rgb(100, 99, 99);
 }
@@ -114,7 +104,6 @@ body {
 }
 
 #contact-link {
-  font-family: Barrington;
   font-size: larger;
   color: rgb(100, 99, 99);
 }
@@ -133,7 +122,6 @@ body {
 }
 
 #gallery-link {
-  font-family: Barrington;
   font-size: larger;
   color: rgb(100, 99, 99);
 }
@@ -169,7 +157,6 @@ footer {
 
 #dropdownMenuButton {
   color: #eaeff3;
-  font-family: Barrington;
   font-size: x-large;
   padding: 4%;
   margin-left: 2%;
