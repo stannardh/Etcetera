@@ -10,6 +10,7 @@
 }
 header {
   background-color: #eaeff3;
+  padding-bottom: 1%;
 }
 
 h1 {
@@ -27,13 +28,13 @@ body {
 #home {
   list-style-type: none;
   float: right;
-  padding: 10px;
-  padding-left: 20px;
+  padding: 1%;
+  padding-left: 2%;
 }
 
 #home-link {
   font-family: Barrington;
-  font-size: 20px;
+  font-size: larger;
   color: rgb(100, 99, 99);
 }
 
@@ -45,16 +46,14 @@ body {
 
 #food-menu {
   list-style-type: none;
-  font-family: Barrington;
-  font-size: 20px;
   float: right;
-  padding: 10px;
-  padding-left: 20px;
+  padding: 1%;
+  padding-left: 2%;
 }
 
 #menu-link {
   font-family: Barrington;
-  font-size: 20px;
+  font-size: larger;
   color: rgb(100, 99, 99);
 }
 
@@ -66,16 +65,14 @@ body {
 
 #contact {
   list-style-type: none;
-  font-family: Barrington;
-  font-size: 20px;
   float: right;
-  padding: 10px;
-  padding-left: 20px;
+  padding: 1%;
+  padding-left: 2%;
 }
 
 #contact-link {
   font-family: Barrington;
-  font-size: 20px;
+  font-size: larger;
   color: rgb(100, 99, 99);
 }
 
@@ -87,15 +84,14 @@ body {
 
 #gallery {
   list-style-type: none;
-  font-family: Barrington;
-  font-size: 20px;
   float: right;
-  padding: 10px;
-  padding-left: 20px;
+  padding: 1%;
+  padding-left: 2%;
 }
+
 #gallery-link {
   font-family: Barrington;
-  font-size: 20px;
+  font-size: larger;
   color: rgb(100, 99, 99);
 }
 
@@ -131,7 +127,8 @@ footer {
 #dropdownMenuButton {
   color: #eaeff3;
   font-family: Barrington;
-  font-size: 25px;
-  padding: 20px;
+  font-size: x-large;
+  padding: 4%;
+  margin-left: 2%;
   background-color: rgb(100, 99, 99);
 }
