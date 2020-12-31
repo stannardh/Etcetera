@@ -6,7 +6,7 @@ header {
 
 h1 {
   color: rgb(100, 99, 99);
-  font-family: Barrington;
+  font-family: Barrington
   text-align: center;
   font-weight: 600;
   font-size: 40px;
@@ -119,7 +119,7 @@ body {
   color: #eaeff3;
   font-size: 20px;
   display: block;
-  font-family: Barrington;
+  font-family: Barrington
   margin-left: 30px;
   margin-bottom: 30px;
 }
