@@ -17,7 +17,6 @@ h1 {
   text-align: center;
   font-weight: 600 !important;
   padding-top: 3%;
-  padding-bottom: 2%;
   font-family: barrington;
 }
 
@@ -36,7 +35,7 @@ body {
   padding-left: 0;
   display: flex;
   justify-content: space-around;
-  line-height: 5%;
+  margin-top: 2%;
 }
 
 #home-link {
