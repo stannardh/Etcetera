@@ -17,10 +17,7 @@ h1 {
   text-align: center;
   font-weight: 600 !important;
   padding-top: 3%;
-  padding-bottom: 1%;
   font-family: barrington;
-  height: 100%;
-  line-height: 100%;
 }
 
 h2 {
@@ -32,10 +29,6 @@ h2 {
 
 body {
   background-color: rgb(43, 41, 41);
-}
-nav {
-  height: 100%;
-  line-height: 100%;
 }
 #headerLinks {
   list-style-type: none;
